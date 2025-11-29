@@ -1,0 +1,5 @@
+{
+  "name": "Look Trending",
+  "description": "An automated blog platform that researches and publishes trending news using Gemini AI.",
+  "requestFramePermissions": []
+}
